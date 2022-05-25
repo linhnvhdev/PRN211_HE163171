@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\bin\Debug\net5.0\AdapterExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\bin\Debug\net5.0\AdapterExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\bin\Debug\net5.0\AdapterExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\bin\Debug\net5.0\AdapterExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\bin\Debug\net5.0\AdapterExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\bin\Debug\net5.0\AdapterExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\obj\Debug\net5.0\AdapterExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\obj\Debug\net5.0\AdapterExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\obj\Debug\net5.0\AdapterExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\obj\Debug\net5.0\AdapterExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\obj\Debug\net5.0\AdapterExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\obj\Debug\net5.0\AdapterExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\obj\Debug\net5.0\refint\AdapterExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\obj\Debug\net5.0\AdapterExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\obj\Debug\net5.0\AdapterExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AdapterExample\obj\Debug\net5.0\ref\AdapterExample.dll

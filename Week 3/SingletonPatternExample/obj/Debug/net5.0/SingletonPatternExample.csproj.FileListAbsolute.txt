@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\bin\Debug\net5.0\SingletonPatternExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\bin\Debug\net5.0\SingletonPatternExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\bin\Debug\net5.0\SingletonPatternExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\bin\Debug\net5.0\SingletonPatternExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\bin\Debug\net5.0\SingletonPatternExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\bin\Debug\net5.0\SingletonPatternExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\obj\Debug\net5.0\SingletonPatternExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\obj\Debug\net5.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\obj\Debug\net5.0\SingletonPatternExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\obj\Debug\net5.0\SingletonPatternExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\obj\Debug\net5.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\obj\Debug\net5.0\SingletonPatternExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\obj\Debug\net5.0\refint\SingletonPatternExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\obj\Debug\net5.0\SingletonPatternExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\obj\Debug\net5.0\SingletonPatternExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\SingletonPatternExample\obj\Debug\net5.0\ref\SingletonPatternExample.dll

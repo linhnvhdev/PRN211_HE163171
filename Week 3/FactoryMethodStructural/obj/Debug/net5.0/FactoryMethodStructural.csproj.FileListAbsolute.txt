@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\bin\Debug\net5.0\FactoryMethodStructural.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\bin\Debug\net5.0\FactoryMethodStructural.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\bin\Debug\net5.0\FactoryMethodStructural.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\bin\Debug\net5.0\FactoryMethodStructural.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\bin\Debug\net5.0\FactoryMethodStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\bin\Debug\net5.0\FactoryMethodStructural.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\obj\Debug\net5.0\FactoryMethodStructural.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\obj\Debug\net5.0\FactoryMethodStructural.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\obj\Debug\net5.0\FactoryMethodStructural.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\obj\Debug\net5.0\FactoryMethodStructural.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\obj\Debug\net5.0\FactoryMethodStructural.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\obj\Debug\net5.0\FactoryMethodStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\obj\Debug\net5.0\refint\FactoryMethodStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\obj\Debug\net5.0\FactoryMethodStructural.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\obj\Debug\net5.0\FactoryMethodStructural.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\FactoryMethodStructural\obj\Debug\net5.0\ref\FactoryMethodStructural.dll

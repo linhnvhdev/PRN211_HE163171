@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\bin\Debug\net5.0\BuilderRealworld.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\bin\Debug\net5.0\BuilderRealworld.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\bin\Debug\net5.0\BuilderRealworld.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\bin\Debug\net5.0\BuilderRealworld.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\bin\Debug\net5.0\BuilderRealworld.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\bin\Debug\net5.0\BuilderRealworld.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\obj\Debug\net5.0\BuilderRealworld.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\obj\Debug\net5.0\BuilderRealworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\obj\Debug\net5.0\BuilderRealworld.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\obj\Debug\net5.0\BuilderRealworld.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\obj\Debug\net5.0\BuilderRealworld.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\obj\Debug\net5.0\BuilderRealworld.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\obj\Debug\net5.0\refint\BuilderRealworld.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\obj\Debug\net5.0\BuilderRealworld.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\obj\Debug\net5.0\BuilderRealworld.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderRealworld\obj\Debug\net5.0\ref\BuilderRealworld.dll

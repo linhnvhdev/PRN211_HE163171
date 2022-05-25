@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\bin\Debug\net5.0\PrototypleStructural.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\bin\Debug\net5.0\PrototypleStructural.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\bin\Debug\net5.0\PrototypleStructural.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\bin\Debug\net5.0\PrototypleStructural.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\bin\Debug\net5.0\PrototypleStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\bin\Debug\net5.0\PrototypleStructural.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\obj\Debug\net5.0\PrototypleStructural.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\obj\Debug\net5.0\PrototypleStructural.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\obj\Debug\net5.0\PrototypleStructural.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\obj\Debug\net5.0\PrototypleStructural.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\obj\Debug\net5.0\PrototypleStructural.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\obj\Debug\net5.0\PrototypleStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\obj\Debug\net5.0\refint\PrototypleStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\obj\Debug\net5.0\PrototypleStructural.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\obj\Debug\net5.0\PrototypleStructural.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypleStructural\obj\Debug\net5.0\ref\PrototypleStructural.dll

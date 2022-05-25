@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\bin\Debug\net5.0\BuilderStructural.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\bin\Debug\net5.0\BuilderStructural.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\bin\Debug\net5.0\BuilderStructural.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\bin\Debug\net5.0\BuilderStructural.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\bin\Debug\net5.0\BuilderStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\bin\Debug\net5.0\BuilderStructural.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\obj\Debug\net5.0\BuilderStructural.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\obj\Debug\net5.0\BuilderStructural.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\obj\Debug\net5.0\BuilderStructural.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\obj\Debug\net5.0\BuilderStructural.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\obj\Debug\net5.0\BuilderStructural.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\obj\Debug\net5.0\BuilderStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\obj\Debug\net5.0\refint\BuilderStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\obj\Debug\net5.0\BuilderStructural.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\obj\Debug\net5.0\BuilderStructural.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\BuilderStructural\obj\Debug\net5.0\ref\BuilderStructural.dll

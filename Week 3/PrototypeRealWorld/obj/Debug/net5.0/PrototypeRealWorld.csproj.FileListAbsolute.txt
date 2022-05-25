@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\bin\Debug\net5.0\PrototypeRealWorld.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\bin\Debug\net5.0\PrototypeRealWorld.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\bin\Debug\net5.0\PrototypeRealWorld.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\bin\Debug\net5.0\PrototypeRealWorld.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\bin\Debug\net5.0\PrototypeRealWorld.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\bin\Debug\net5.0\PrototypeRealWorld.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\obj\Debug\net5.0\PrototypeRealWorld.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\obj\Debug\net5.0\PrototypeRealWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\obj\Debug\net5.0\PrototypeRealWorld.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\obj\Debug\net5.0\PrototypeRealWorld.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\obj\Debug\net5.0\PrototypeRealWorld.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\obj\Debug\net5.0\PrototypeRealWorld.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\obj\Debug\net5.0\refint\PrototypeRealWorld.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\obj\Debug\net5.0\PrototypeRealWorld.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\obj\Debug\net5.0\PrototypeRealWorld.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\PrototypeRealWorld\obj\Debug\net5.0\ref\PrototypeRealWorld.dll

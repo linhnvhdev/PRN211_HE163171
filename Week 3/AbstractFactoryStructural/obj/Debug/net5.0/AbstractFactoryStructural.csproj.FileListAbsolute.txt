@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\bin\Debug\net5.0\AbstractFactoryStructural.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\bin\Debug\net5.0\AbstractFactoryStructural.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\bin\Debug\net5.0\AbstractFactoryStructural.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\bin\Debug\net5.0\AbstractFactoryStructural.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\bin\Debug\net5.0\AbstractFactoryStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\bin\Debug\net5.0\AbstractFactoryStructural.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\obj\Debug\net5.0\AbstractFactoryStructural.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\obj\Debug\net5.0\AbstractFactoryStructural.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\obj\Debug\net5.0\AbstractFactoryStructural.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\obj\Debug\net5.0\AbstractFactoryStructural.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\obj\Debug\net5.0\AbstractFactoryStructural.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\obj\Debug\net5.0\AbstractFactoryStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\obj\Debug\net5.0\refint\AbstractFactoryStructural.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\obj\Debug\net5.0\AbstractFactoryStructural.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\obj\Debug\net5.0\AbstractFactoryStructural.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\AbstractFactoryStructural\obj\Debug\net5.0\ref\AbstractFactoryStructural.dll
