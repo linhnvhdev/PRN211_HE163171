@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\bin\Debug\net5.0\ExceptionExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\bin\Debug\net5.0\ExceptionExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\bin\Debug\net5.0\ExceptionExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\bin\Debug\net5.0\ExceptionExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\bin\Debug\net5.0\ExceptionExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\bin\Debug\net5.0\ExceptionExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\obj\Debug\net5.0\ExceptionExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\obj\Debug\net5.0\ExceptionExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\obj\Debug\net5.0\ExceptionExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\obj\Debug\net5.0\ExceptionExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\obj\Debug\net5.0\ExceptionExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\obj\Debug\net5.0\ExceptionExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\obj\Debug\net5.0\refint\ExceptionExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\obj\Debug\net5.0\ExceptionExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\obj\Debug\net5.0\ExceptionExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\ExceptionExample\obj\Debug\net5.0\ref\ExceptionExample.dll

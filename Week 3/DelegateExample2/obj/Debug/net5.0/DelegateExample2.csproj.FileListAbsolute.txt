@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\bin\Debug\net5.0\DelegateExample2.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\bin\Debug\net5.0\DelegateExample2.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\bin\Debug\net5.0\DelegateExample2.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\bin\Debug\net5.0\DelegateExample2.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\bin\Debug\net5.0\DelegateExample2.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\bin\Debug\net5.0\DelegateExample2.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\obj\Debug\net5.0\DelegateExample2.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\obj\Debug\net5.0\DelegateExample2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\obj\Debug\net5.0\DelegateExample2.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\obj\Debug\net5.0\DelegateExample2.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\obj\Debug\net5.0\DelegateExample2.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\obj\Debug\net5.0\DelegateExample2.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\obj\Debug\net5.0\refint\DelegateExample2.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\obj\Debug\net5.0\DelegateExample2.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\obj\Debug\net5.0\DelegateExample2.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Week 3\DelegateExample2\obj\Debug\net5.0\ref\DelegateExample2.dll

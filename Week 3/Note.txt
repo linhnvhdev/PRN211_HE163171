@@ -1,0 +1,11 @@
+Slot 7:
+AbstractFactory
+Adapter
+Builder
+FactoryMethod
+Prototype
+Singleton
+Slot8+9:
+DelegateExample
+DelegateExample2
+EventExample

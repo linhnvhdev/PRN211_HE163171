@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\obj\Debug\net5.0\IndexerExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\obj\Debug\net5.0\IndexerExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\obj\Debug\net5.0\IndexerExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\obj\Debug\net5.0\IndexerExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\obj\Debug\net5.0\IndexerExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\bin\Debug\net5.0\IndexerExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\bin\Debug\net5.0\IndexerExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\bin\Debug\net5.0\IndexerExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\bin\Debug\net5.0\IndexerExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\bin\Debug\net5.0\IndexerExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\bin\Debug\net5.0\IndexerExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\obj\Debug\net5.0\IndexerExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\obj\Debug\net5.0\refint\IndexerExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\obj\Debug\net5.0\IndexerExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\obj\Debug\net5.0\IndexerExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\IndexerExample\obj\Debug\net5.0\ref\IndexerExample.dll

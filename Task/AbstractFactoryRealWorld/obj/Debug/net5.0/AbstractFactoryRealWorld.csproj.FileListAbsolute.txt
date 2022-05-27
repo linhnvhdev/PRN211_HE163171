@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\bin\Debug\net5.0\AbstractFactoryRealWorld.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\bin\Debug\net5.0\AbstractFactoryRealWorld.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\bin\Debug\net5.0\AbstractFactoryRealWorld.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\bin\Debug\net5.0\AbstractFactoryRealWorld.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\bin\Debug\net5.0\AbstractFactoryRealWorld.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\bin\Debug\net5.0\AbstractFactoryRealWorld.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\obj\Debug\net5.0\AbstractFactoryRealWorld.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\obj\Debug\net5.0\AbstractFactoryRealWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\obj\Debug\net5.0\AbstractFactoryRealWorld.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\obj\Debug\net5.0\AbstractFactoryRealWorld.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\obj\Debug\net5.0\AbstractFactoryRealWorld.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\obj\Debug\net5.0\AbstractFactoryRealWorld.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\obj\Debug\net5.0\refint\AbstractFactoryRealWorld.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\obj\Debug\net5.0\AbstractFactoryRealWorld.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\obj\Debug\net5.0\AbstractFactoryRealWorld.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Task\AbstractFactoryRealWorld\obj\Debug\net5.0\ref\AbstractFactoryRealWorld.dll
