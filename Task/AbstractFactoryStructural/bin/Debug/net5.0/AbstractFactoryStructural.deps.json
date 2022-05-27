@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AbstractFactoryStructural/1.0.0": {
+        "runtime": {
+          "AbstractFactoryStructural.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractFactoryStructural/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

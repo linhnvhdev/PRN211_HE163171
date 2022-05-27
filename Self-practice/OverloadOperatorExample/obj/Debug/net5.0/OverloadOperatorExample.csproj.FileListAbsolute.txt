@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\bin\Debug\net5.0\OverloadOperatorExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\bin\Debug\net5.0\OverloadOperatorExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\bin\Debug\net5.0\OverloadOperatorExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\bin\Debug\net5.0\OverloadOperatorExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\bin\Debug\net5.0\OverloadOperatorExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\bin\Debug\net5.0\OverloadOperatorExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\obj\Debug\net5.0\OverloadOperatorExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\obj\Debug\net5.0\OverloadOperatorExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\obj\Debug\net5.0\OverloadOperatorExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\obj\Debug\net5.0\OverloadOperatorExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\obj\Debug\net5.0\OverloadOperatorExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\obj\Debug\net5.0\OverloadOperatorExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\obj\Debug\net5.0\refint\OverloadOperatorExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\obj\Debug\net5.0\OverloadOperatorExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\obj\Debug\net5.0\OverloadOperatorExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\Self-practice\OverloadOperatorExample\obj\Debug\net5.0\ref\OverloadOperatorExample.dll
