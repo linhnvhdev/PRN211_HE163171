@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\Week 3\\BuilderRealworld\\BuilderRealworld.csproj",
+      "projectUniqueName": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 3\\BuilderRealworld\\BuilderRealworld.csproj",
       "projectName": "BuilderRealworld",
-      "projectPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\Week 3\\BuilderRealworld\\BuilderRealworld.csproj",
+      "projectPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 3\\BuilderRealworld\\BuilderRealworld.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\Week 3\\BuilderRealworld\\obj\\",
+      "outputPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 3\\BuilderRealworld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\bin\Debug\net5.0\EventAndDelegates.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\bin\Debug\net5.0\EventAndDelegates.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\bin\Debug\net5.0\EventAndDelegates.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\bin\Debug\net5.0\EventAndDelegates.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\bin\Debug\net5.0\EventAndDelegates.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\bin\Debug\net5.0\EventAndDelegates.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\obj\Debug\net5.0\EventAndDelegates.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\obj\Debug\net5.0\EventAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\obj\Debug\net5.0\EventAndDelegates.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\obj\Debug\net5.0\EventAndDelegates.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\obj\Debug\net5.0\EventAndDelegates.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\obj\Debug\net5.0\EventAndDelegates.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\obj\Debug\net5.0\refint\EventAndDelegates.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\obj\Debug\net5.0\EventAndDelegates.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\obj\Debug\net5.0\EventAndDelegates.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\EventAndDelegates\obj\Debug\net5.0\ref\EventAndDelegates.dll

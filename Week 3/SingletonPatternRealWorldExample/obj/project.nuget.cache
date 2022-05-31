@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+YxXBmcq4vmEQLmvroHX2ZlTIBg70tiPvZx5D8Avu9e6R93yippaW390EFm49RjArV66qHB12LoLd/kpV9f9Zg==",
+  "dgSpecHash": "mUI73N4PL3ixKjmOZCfBEAdnLPi0xpdNRDK+Wk9JiLZxYcn1HseLJw1guJyhcfR7VSImsi7OS6MQv8CSbt26SQ==",
   "success": true,
-  "projectFilePath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\Week 3\\SingletonPatternRealWorldExample\\SingletonPatternRealWorldExample.csproj",
+  "projectFilePath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 3\\SingletonPatternRealWorldExample\\SingletonPatternRealWorldExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

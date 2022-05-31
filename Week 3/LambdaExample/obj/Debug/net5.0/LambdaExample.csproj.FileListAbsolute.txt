@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\bin\Debug\net5.0\LambdaExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\bin\Debug\net5.0\LambdaExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\bin\Debug\net5.0\LambdaExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\bin\Debug\net5.0\LambdaExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\bin\Debug\net5.0\LambdaExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\bin\Debug\net5.0\LambdaExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\obj\Debug\net5.0\LambdaExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\obj\Debug\net5.0\LambdaExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\obj\Debug\net5.0\LambdaExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\obj\Debug\net5.0\LambdaExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\obj\Debug\net5.0\LambdaExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\obj\Debug\net5.0\LambdaExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\obj\Debug\net5.0\refint\LambdaExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\obj\Debug\net5.0\LambdaExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\obj\Debug\net5.0\LambdaExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\LambdaExample\obj\Debug\net5.0\ref\LambdaExample.dll

@@ -28,7 +28,7 @@ namespace PublicDelegateProblem
             // If this car is "dead," send dead message.
             if (_carIsDead)
             {
-                Exploded?.Invoke("Sorry, this car is dead...");
+                Exploded("Sorry, this car is dead...");
             }
             else
             {
@@ -36,7 +36,7 @@ namespace PublicDelegateProblem
                 // Is this car "almost dead"?
                 if (10 == (MaxSpeed - CurrentSpeed))
                 {
-                    AboutToBlow?.Invoke("Careful buddy! Gonna blow!");
+                    AboutToBlow("Careful buddy! Gonna blow!");
                 }
                 if (CurrentSpeed >= MaxSpeed)
                 {

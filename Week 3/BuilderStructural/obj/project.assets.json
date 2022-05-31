@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\Week 3\\BuilderStructural\\BuilderStructural.csproj",
+      "projectUniqueName": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 3\\BuilderStructural\\BuilderStructural.csproj",
       "projectName": "BuilderStructural",
-      "projectPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\Week 3\\BuilderStructural\\BuilderStructural.csproj",
+      "projectPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 3\\BuilderStructural\\BuilderStructural.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\Week 3\\BuilderStructural\\obj\\",
+      "outputPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 3\\BuilderStructural\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\bin\Debug\net5.0\LinqExpression.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\bin\Debug\net5.0\LinqExpression.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\bin\Debug\net5.0\LinqExpression.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\bin\Debug\net5.0\LinqExpression.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\bin\Debug\net5.0\LinqExpression.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\bin\Debug\net5.0\LinqExpression.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\obj\Debug\net5.0\LinqExpression.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\obj\Debug\net5.0\LinqExpression.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\obj\Debug\net5.0\LinqExpression.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\obj\Debug\net5.0\LinqExpression.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\obj\Debug\net5.0\LinqExpression.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\obj\Debug\net5.0\LinqExpression.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\obj\Debug\net5.0\refint\LinqExpression.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\obj\Debug\net5.0\LinqExpression.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\obj\Debug\net5.0\LinqExpression.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqExpression\obj\Debug\net5.0\ref\LinqExpression.dll

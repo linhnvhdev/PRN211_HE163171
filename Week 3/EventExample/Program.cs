@@ -22,7 +22,7 @@ namespace EventExample
             }
             // Remove CarExploded method
             // from invocation list.
-            c1.Exploded -= d;
+            //c1.Exploded -= d;
             Console.WriteLine("\n***** Speeding up *****");
             for (int i = 0; i < 6; i++)
             {
@@ -34,7 +34,7 @@ namespace EventExample
 
         private static void AboutToBlowVer2(string msgForCaller)
         {
-            throw new NotImplementedException();
+            Console.WriteLine("About to blow ver2: "+msgForCaller);
         }
 
         static void CarAboutToBlow(string msg)

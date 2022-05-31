@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\bin\Debug\net5.0\LinqOverArray.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\bin\Debug\net5.0\LinqOverArray.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\bin\Debug\net5.0\LinqOverArray.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\bin\Debug\net5.0\LinqOverArray.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\bin\Debug\net5.0\LinqOverArray.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\bin\Debug\net5.0\LinqOverArray.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\obj\Debug\net5.0\LinqOverArray.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\obj\Debug\net5.0\LinqOverArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\obj\Debug\net5.0\LinqOverArray.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\obj\Debug\net5.0\LinqOverArray.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\obj\Debug\net5.0\LinqOverArray.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\obj\Debug\net5.0\LinqOverArray.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\obj\Debug\net5.0\refint\LinqOverArray.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\obj\Debug\net5.0\LinqOverArray.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\obj\Debug\net5.0\LinqOverArray.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverArray\obj\Debug\net5.0\ref\LinqOverArray.dll

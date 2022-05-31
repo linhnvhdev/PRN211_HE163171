@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\bin\Debug\net5.0\LinqOverCollection.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\bin\Debug\net5.0\LinqOverCollection.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\bin\Debug\net5.0\LinqOverCollection.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\bin\Debug\net5.0\LinqOverCollection.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\bin\Debug\net5.0\LinqOverCollection.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\bin\Debug\net5.0\LinqOverCollection.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\obj\Debug\net5.0\LinqOverCollection.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\obj\Debug\net5.0\LinqOverCollection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\obj\Debug\net5.0\LinqOverCollection.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\obj\Debug\net5.0\LinqOverCollection.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\obj\Debug\net5.0\LinqOverCollection.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\obj\Debug\net5.0\LinqOverCollection.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\obj\Debug\net5.0\refint\LinqOverCollection.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\obj\Debug\net5.0\LinqOverCollection.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\obj\Debug\net5.0\LinqOverCollection.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 3\Linq\LinqOverCollection\obj\Debug\net5.0\ref\LinqOverCollection.dll
