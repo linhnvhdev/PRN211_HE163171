@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\bin\Debug\net5.0\FileClassDemo.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\bin\Debug\net5.0\FileClassDemo.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\bin\Debug\net5.0\FileClassDemo.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\bin\Debug\net5.0\FileClassDemo.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\bin\Debug\net5.0\FileClassDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\bin\Debug\net5.0\FileClassDemo.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\obj\Debug\net5.0\FileClassDemo.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\obj\Debug\net5.0\FileClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\obj\Debug\net5.0\FileClassDemo.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\obj\Debug\net5.0\FileClassDemo.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\obj\Debug\net5.0\FileClassDemo.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\obj\Debug\net5.0\FileClassDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\obj\Debug\net5.0\refint\FileClassDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\obj\Debug\net5.0\FileClassDemo.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\obj\Debug\net5.0\FileClassDemo.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileClassDemo\obj\Debug\net5.0\ref\FileClassDemo.dll

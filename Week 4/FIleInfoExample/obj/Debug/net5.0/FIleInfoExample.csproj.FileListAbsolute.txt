@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\bin\Debug\net5.0\FIleInfoExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\bin\Debug\net5.0\FIleInfoExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\bin\Debug\net5.0\FIleInfoExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\bin\Debug\net5.0\FIleInfoExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\bin\Debug\net5.0\FIleInfoExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\bin\Debug\net5.0\FIleInfoExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\obj\Debug\net5.0\FIleInfoExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\obj\Debug\net5.0\FIleInfoExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\obj\Debug\net5.0\FIleInfoExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\obj\Debug\net5.0\FIleInfoExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\obj\Debug\net5.0\FIleInfoExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\obj\Debug\net5.0\FIleInfoExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\obj\Debug\net5.0\refint\FIleInfoExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\obj\Debug\net5.0\FIleInfoExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\obj\Debug\net5.0\FIleInfoExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FIleInfoExample\obj\Debug\net5.0\ref\FIleInfoExample.dll

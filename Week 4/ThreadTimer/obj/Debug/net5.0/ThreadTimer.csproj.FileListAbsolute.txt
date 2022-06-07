@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\bin\Debug\net5.0\ThreadTimer.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\bin\Debug\net5.0\ThreadTimer.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\bin\Debug\net5.0\ThreadTimer.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\bin\Debug\net5.0\ThreadTimer.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\bin\Debug\net5.0\ThreadTimer.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\bin\Debug\net5.0\ThreadTimer.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\obj\Debug\net5.0\ThreadTimer.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\obj\Debug\net5.0\ThreadTimer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\obj\Debug\net5.0\ThreadTimer.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\obj\Debug\net5.0\ThreadTimer.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\obj\Debug\net5.0\ThreadTimer.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\obj\Debug\net5.0\ThreadTimer.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\obj\Debug\net5.0\refint\ThreadTimer.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\obj\Debug\net5.0\ThreadTimer.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\obj\Debug\net5.0\ThreadTimer.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadTimer\obj\Debug\net5.0\ref\ThreadTimer.dll

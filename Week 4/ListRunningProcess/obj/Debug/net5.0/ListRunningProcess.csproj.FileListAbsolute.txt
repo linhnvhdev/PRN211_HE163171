@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\bin\Debug\net5.0\ListRunningProcess.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\bin\Debug\net5.0\ListRunningProcess.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\bin\Debug\net5.0\ListRunningProcess.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\bin\Debug\net5.0\ListRunningProcess.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\bin\Debug\net5.0\ListRunningProcess.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\bin\Debug\net5.0\ListRunningProcess.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\obj\Debug\net5.0\ListRunningProcess.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\obj\Debug\net5.0\ListRunningProcess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\obj\Debug\net5.0\ListRunningProcess.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\obj\Debug\net5.0\ListRunningProcess.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\obj\Debug\net5.0\ListRunningProcess.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\obj\Debug\net5.0\ListRunningProcess.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\obj\Debug\net5.0\refint\ListRunningProcess.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\obj\Debug\net5.0\ListRunningProcess.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\obj\Debug\net5.0\ListRunningProcess.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ListRunningProcess\obj\Debug\net5.0\ref\ListRunningProcess.dll

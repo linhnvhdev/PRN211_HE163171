@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\bin\Debug\net5.0\StreamWriterAndReaderExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\bin\Debug\net5.0\StreamWriterAndReaderExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\bin\Debug\net5.0\StreamWriterAndReaderExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\bin\Debug\net5.0\StreamWriterAndReaderExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\bin\Debug\net5.0\StreamWriterAndReaderExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\bin\Debug\net5.0\StreamWriterAndReaderExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\obj\Debug\net5.0\StreamWriterAndReaderExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\obj\Debug\net5.0\StreamWriterAndReaderExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\obj\Debug\net5.0\StreamWriterAndReaderExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\obj\Debug\net5.0\StreamWriterAndReaderExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\obj\Debug\net5.0\StreamWriterAndReaderExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\obj\Debug\net5.0\StreamWriterAndReaderExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\obj\Debug\net5.0\refint\StreamWriterAndReaderExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\obj\Debug\net5.0\StreamWriterAndReaderExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\obj\Debug\net5.0\StreamWriterAndReaderExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\StreamWriterAndReaderExample\obj\Debug\net5.0\ref\StreamWriterAndReaderExample.dll

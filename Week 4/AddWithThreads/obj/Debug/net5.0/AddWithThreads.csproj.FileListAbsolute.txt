@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\obj\Debug\net5.0\AddWithThreads.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\obj\Debug\net5.0\AddWithThreads.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\obj\Debug\net5.0\AddWithThreads.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\obj\Debug\net5.0\AddWithThreads.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\obj\Debug\net5.0\AddWithThreads.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\bin\Debug\net5.0\AddWithThreads.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\bin\Debug\net5.0\AddWithThreads.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\bin\Debug\net5.0\AddWithThreads.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\bin\Debug\net5.0\AddWithThreads.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\bin\Debug\net5.0\AddWithThreads.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\bin\Debug\net5.0\AddWithThreads.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\obj\Debug\net5.0\AddWithThreads.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\obj\Debug\net5.0\refint\AddWithThreads.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\obj\Debug\net5.0\AddWithThreads.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\obj\Debug\net5.0\AddWithThreads.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\AddWithThreads\obj\Debug\net5.0\ref\AddWithThreads.dll

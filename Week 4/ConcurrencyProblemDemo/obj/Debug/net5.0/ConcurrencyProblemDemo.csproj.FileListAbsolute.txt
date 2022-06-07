@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\bin\Debug\net5.0\ConcurrencyProblemDemo.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\bin\Debug\net5.0\ConcurrencyProblemDemo.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\bin\Debug\net5.0\ConcurrencyProblemDemo.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\bin\Debug\net5.0\ConcurrencyProblemDemo.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\bin\Debug\net5.0\ConcurrencyProblemDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\bin\Debug\net5.0\ConcurrencyProblemDemo.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\obj\Debug\net5.0\ConcurrencyProblemDemo.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\obj\Debug\net5.0\ConcurrencyProblemDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\obj\Debug\net5.0\ConcurrencyProblemDemo.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\obj\Debug\net5.0\ConcurrencyProblemDemo.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\obj\Debug\net5.0\ConcurrencyProblemDemo.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\obj\Debug\net5.0\ConcurrencyProblemDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\obj\Debug\net5.0\refint\ConcurrencyProblemDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\obj\Debug\net5.0\ConcurrencyProblemDemo.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\obj\Debug\net5.0\ConcurrencyProblemDemo.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ConcurrencyProblemDemo\obj\Debug\net5.0\ref\ConcurrencyProblemDemo.dll

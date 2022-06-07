@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\bin\Debug\net5.0\BinaryWriterAndReaderExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\bin\Debug\net5.0\BinaryWriterAndReaderExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\bin\Debug\net5.0\BinaryWriterAndReaderExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\bin\Debug\net5.0\BinaryWriterAndReaderExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\bin\Debug\net5.0\BinaryWriterAndReaderExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\bin\Debug\net5.0\BinaryWriterAndReaderExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\obj\Debug\net5.0\BinaryWriterAndReaderExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\obj\Debug\net5.0\BinaryWriterAndReaderExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\obj\Debug\net5.0\BinaryWriterAndReaderExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\obj\Debug\net5.0\BinaryWriterAndReaderExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\obj\Debug\net5.0\BinaryWriterAndReaderExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\obj\Debug\net5.0\BinaryWriterAndReaderExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\obj\Debug\net5.0\refint\BinaryWriterAndReaderExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\obj\Debug\net5.0\BinaryWriterAndReaderExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\obj\Debug\net5.0\BinaryWriterAndReaderExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\BinaryWriterAndReaderExample\obj\Debug\net5.0\ref\BinaryWriterAndReaderExample.dll

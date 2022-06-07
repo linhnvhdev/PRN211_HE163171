@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\bin\Debug\net5.0\SerializationExample1.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\bin\Debug\net5.0\SerializationExample1.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\bin\Debug\net5.0\SerializationExample1.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\bin\Debug\net5.0\SerializationExample1.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\bin\Debug\net5.0\SerializationExample1.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\bin\Debug\net5.0\SerializationExample1.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\obj\Debug\net5.0\SerializationExample1.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\obj\Debug\net5.0\SerializationExample1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\obj\Debug\net5.0\SerializationExample1.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\obj\Debug\net5.0\SerializationExample1.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\obj\Debug\net5.0\SerializationExample1.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\obj\Debug\net5.0\SerializationExample1.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\obj\Debug\net5.0\refint\SerializationExample1.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\obj\Debug\net5.0\SerializationExample1.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\obj\Debug\net5.0\SerializationExample1.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Self-practice\SerializationExample1\obj\Debug\net5.0\ref\SerializationExample1.dll

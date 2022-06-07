@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\bin\Debug\net5.0\ThreadPoolExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\bin\Debug\net5.0\ThreadPoolExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\bin\Debug\net5.0\ThreadPoolExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\bin\Debug\net5.0\ThreadPoolExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\bin\Debug\net5.0\ThreadPoolExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\bin\Debug\net5.0\ThreadPoolExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\obj\Debug\net5.0\ThreadPoolExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\obj\Debug\net5.0\ThreadPoolExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\obj\Debug\net5.0\ThreadPoolExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\obj\Debug\net5.0\ThreadPoolExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\obj\Debug\net5.0\ThreadPoolExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\obj\Debug\net5.0\ThreadPoolExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\obj\Debug\net5.0\refint\ThreadPoolExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\obj\Debug\net5.0\ThreadPoolExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\obj\Debug\net5.0\ThreadPoolExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\ThreadPoolExample\obj\Debug\net5.0\ref\ThreadPoolExample.dll

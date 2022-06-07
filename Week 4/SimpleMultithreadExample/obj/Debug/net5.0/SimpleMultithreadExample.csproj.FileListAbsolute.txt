@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\bin\Debug\net5.0\SimpleMultithreadExample.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\bin\Debug\net5.0\SimpleMultithreadExample.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\bin\Debug\net5.0\SimpleMultithreadExample.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\bin\Debug\net5.0\SimpleMultithreadExample.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\bin\Debug\net5.0\SimpleMultithreadExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\bin\Debug\net5.0\SimpleMultithreadExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\obj\Debug\net5.0\SimpleMultithreadExample.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\obj\Debug\net5.0\SimpleMultithreadExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\obj\Debug\net5.0\SimpleMultithreadExample.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\obj\Debug\net5.0\SimpleMultithreadExample.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\obj\Debug\net5.0\SimpleMultithreadExample.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\obj\Debug\net5.0\SimpleMultithreadExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\obj\Debug\net5.0\refint\SimpleMultithreadExample.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\obj\Debug\net5.0\SimpleMultithreadExample.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\obj\Debug\net5.0\SimpleMultithreadExample.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\SimpleMultithreadExample\obj\Debug\net5.0\ref\SimpleMultithreadExample.dll

@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\bin\Debug\net5.0\DirectoryInfoClassDemo.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\bin\Debug\net5.0\DirectoryInfoClassDemo.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\bin\Debug\net5.0\DirectoryInfoClassDemo.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\bin\Debug\net5.0\DirectoryInfoClassDemo.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\bin\Debug\net5.0\DirectoryInfoClassDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\bin\Debug\net5.0\DirectoryInfoClassDemo.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\obj\Debug\net5.0\DirectoryInfoClassDemo.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\obj\Debug\net5.0\DirectoryInfoClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\obj\Debug\net5.0\DirectoryInfoClassDemo.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\obj\Debug\net5.0\DirectoryInfoClassDemo.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\obj\Debug\net5.0\DirectoryInfoClassDemo.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\obj\Debug\net5.0\DirectoryInfoClassDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\obj\Debug\net5.0\refint\DirectoryInfoClassDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\obj\Debug\net5.0\DirectoryInfoClassDemo.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\obj\Debug\net5.0\DirectoryInfoClassDemo.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\DirectoryInfoClassDemo\obj\Debug\net5.0\ref\DirectoryInfoClassDemo.dll

@@ -1,0 +1,16 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\bin\Debug\net5.0\FileSystemWatcherDemo.exe
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\bin\Debug\net5.0\FileSystemWatcherDemo.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\bin\Debug\net5.0\FileSystemWatcherDemo.runtimeconfig.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\bin\Debug\net5.0\FileSystemWatcherDemo.runtimeconfig.dev.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\bin\Debug\net5.0\FileSystemWatcherDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\bin\Debug\net5.0\FileSystemWatcherDemo.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\obj\Debug\net5.0\FileSystemWatcherDemo.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\obj\Debug\net5.0\FileSystemWatcherDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\obj\Debug\net5.0\FileSystemWatcherDemo.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\obj\Debug\net5.0\FileSystemWatcherDemo.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\obj\Debug\net5.0\FileSystemWatcherDemo.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\obj\Debug\net5.0\FileSystemWatcherDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\obj\Debug\net5.0\refint\FileSystemWatcherDemo.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\obj\Debug\net5.0\FileSystemWatcherDemo.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\obj\Debug\net5.0\FileSystemWatcherDemo.genruntimeconfig.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Week 4\FileSystemWatcherDemo\obj\Debug\net5.0\ref\FileSystemWatcherDemo.dll
