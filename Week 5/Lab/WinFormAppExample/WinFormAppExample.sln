@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormAppExample", "WinFormAppExample\WinFormAppExample.csproj", "{6F5BBFE3-17C5-42E4-8D79-4BF2CF9DF4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMDIApp", "MyMDIApp\MyMDIApp.csproj", "{836C5B0A-4726-42B0-8569-4CA8BA697CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5BBFE3-17C5-42E4-8D79-4BF2CF9DF4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5BBFE3-17C5-42E4-8D79-4BF2CF9DF4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5BBFE3-17C5-42E4-8D79-4BF2CF9DF4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5BBFE3-17C5-42E4-8D79-4BF2CF9DF4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836C5B0A-4726-42B0-8569-4CA8BA697CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836C5B0A-4726-42B0-8569-4CA8BA697CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836C5B0A-4726-42B0-8569-4CA8BA697CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836C5B0A-4726-42B0-8569-4CA8BA697CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3816931-50EF-4FAC-A194-A9EBCB330426}
+	EndGlobalSection
+EndGlobal
