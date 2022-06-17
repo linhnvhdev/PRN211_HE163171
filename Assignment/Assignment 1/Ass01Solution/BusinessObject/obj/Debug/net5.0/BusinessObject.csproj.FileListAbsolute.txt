@@ -1,0 +1,12 @@
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+E:\Documents\HocFPT\PRN211\Code\InClass\PRN211_HE163171\Assignment\Assignment 1\Ass01Solution\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll

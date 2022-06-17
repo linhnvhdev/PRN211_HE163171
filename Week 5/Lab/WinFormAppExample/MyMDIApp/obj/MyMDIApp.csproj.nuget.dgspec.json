@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\WinFormAppExample\\MyMDIApp\\MyMDIApp.csproj": {}
+    "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\Lab\\WinFormAppExample\\MyMDIApp\\MyMDIApp.csproj": {}
   },
   "projects": {
-    "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\WinFormAppExample\\MyMDIApp\\MyMDIApp.csproj": {
+    "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\Lab\\WinFormAppExample\\MyMDIApp\\MyMDIApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\WinFormAppExample\\MyMDIApp\\MyMDIApp.csproj",
+        "projectUniqueName": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\Lab\\WinFormAppExample\\MyMDIApp\\MyMDIApp.csproj",
         "projectName": "MyMDIApp",
-        "projectPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\WinFormAppExample\\MyMDIApp\\MyMDIApp.csproj",
+        "projectPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\Lab\\WinFormAppExample\\MyMDIApp\\MyMDIApp.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\WinFormAppExample\\MyMDIApp\\obj\\",
+        "outputPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\Lab\\WinFormAppExample\\MyMDIApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

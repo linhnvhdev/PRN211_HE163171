@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\WinFormAppExample\\WinFormAppExample\\WinFormAppExample.csproj",
+      "projectUniqueName": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\Lab\\WinFormAppExample\\WinFormAppExample\\WinFormAppExample.csproj",
       "projectName": "WinFormAppExample",
-      "projectPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\WinFormAppExample\\WinFormAppExample\\WinFormAppExample.csproj",
+      "projectPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\Lab\\WinFormAppExample\\WinFormAppExample\\WinFormAppExample.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\WinFormAppExample\\WinFormAppExample\\obj\\",
+      "outputPath": "E:\\Documents\\HocFPT\\PRN211\\Code\\InClass\\PRN211_HE163171\\Week 5\\Lab\\WinFormAppExample\\WinFormAppExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

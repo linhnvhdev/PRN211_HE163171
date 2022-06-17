@@ -41,7 +41,7 @@ namespace AutomobileWinApp
             if(frmCarDetails.ShowDialog() == DialogResult.OK)
             {
                 LoadCarList();
-                source.Position = source.Count - 1;
+                source.Position = ((DataGridViewCellEventArgs)e).RowIndex;
             }
         }
 
