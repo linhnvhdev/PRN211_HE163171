@@ -43,7 +43,6 @@ namespace DemoDisconnectedLayer
             {
                 SqlDataAdapter adapter = new SqlDataAdapter(sql, ConnectionString);
                 adapter.Fill(dsMyStore);
-                MessageBox.Show(adapter.ToString());
             }
             catch(Exception ex)
             {
