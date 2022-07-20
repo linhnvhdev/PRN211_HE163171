@@ -1,0 +1,83 @@
+﻿@model IEnumerable<BusinessObject.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Product List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-controller="Product" asp-action="Index" method="get">
+    <p>
+        Product Name: <input type="text" name="searchName" value="@ViewBag.SearchName"/>
+        Price Range : <select name="searchPrice" class="price-range-select">
+            <option value="0">All</option>
+            <option value="1">0$-50$</option>
+            <option value="2">51-100$</option>
+            <option value="3">>100$</option>
+        </select>
+        <input type="submit" value="Search" />
+        <a asp-action="Index" asp-controller="Product" class="btn btn-secondary">Reset</a>
+    </p>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Weight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitsInStock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Weight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitsInStock)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProductId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ProductId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ProductId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@section Scripts
+{
+    <script>
+    $(document).ready(function(){
+        console.log("@ViewBag.SearchPrice]");
+        $('.price-range-select option[value="@ViewBag.SearchPrice"]').attr('selected',true);
+    });
+    </script>
+}
